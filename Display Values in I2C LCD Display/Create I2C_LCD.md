@@ -1,1 +1,1 @@
-
+- This code will help to get date time values from DS3231 RTC module and Dispay Values on I2C 16x2 LCD Display without RTC_DS3231 Libarary and Only need Wire.h Library
